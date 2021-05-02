@@ -1,5 +1,5 @@
 # Principles Of Programming Languages
- Projects for the Course principles of Programming languages @ASU
+ Projects for the Course: principles of Programming languages @ASU
  
  Project 1 : Building a lexical Analyzer for given list of token types. 
  
